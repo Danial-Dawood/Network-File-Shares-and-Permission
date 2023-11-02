@@ -1,5 +1,17 @@
 # <h1>Network File Shares & Permissions</h1>
 <h2>In this lab we will practice how to share files over the network and how to give certain users certain permissions </h2>
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Command Prompt
+
+<h2>Operating Systems Used </h2>
+
+- Windows Server 2022
+- Windows 10 (21H2)
+<h2> Deployment and Configuration Steps</h2>
+<p></p>
 
 - Item 1 - Log into the windows 10 vm with one of the random users(not a admin)
 - Item 2 - Go to the Windows Server VM and create 4 folders in the C-Drive, name them read-access, write-access, no-access and accounting
